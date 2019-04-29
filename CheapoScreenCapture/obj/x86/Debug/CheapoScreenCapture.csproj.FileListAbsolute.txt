@@ -1,0 +1,6 @@
+C:\Users\Bob\source\repos\CheapoScreenCapture\CheapoScreenCapture\CheapoScreenCapture\obj\x86\Debug\CheapoScreenCapture.Properties.Resources.resources
+C:\Users\Bob\source\repos\CheapoScreenCapture\CheapoScreenCapture\CheapoScreenCapture\obj\x86\Debug\CheapoScreenCapture.csproj.GenerateResource.Cache
+C:\Users\Bob\source\repos\CheapoScreenCapture\CheapoScreenCapture\CheapoScreenCapture\bin\Debug\CheapoScreenCapture.exe
+C:\Users\Bob\source\repos\CheapoScreenCapture\CheapoScreenCapture\CheapoScreenCapture\bin\Debug\CheapoScreenCapture.pdb
+C:\Users\Bob\source\repos\CheapoScreenCapture\CheapoScreenCapture\CheapoScreenCapture\obj\x86\Debug\CheapoScreenCapture.exe
+C:\Users\Bob\source\repos\CheapoScreenCapture\CheapoScreenCapture\CheapoScreenCapture\obj\x86\Debug\CheapoScreenCapture.pdb
